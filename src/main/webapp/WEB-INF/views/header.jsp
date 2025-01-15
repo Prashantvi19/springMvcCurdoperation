@@ -6,7 +6,7 @@
       <a href="#" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto link-body-emphasis text-decoration-none">
         <svg class="bi me-2" width="40" height="32">
         </svg>
-        <span class="fs-4">Spring and Hibernate Framework web based CRUD operations</span>
+        <b><span class="fs-4">Handel Contact Info</span></b>
       </a>
 
       <ul class="nav nav-pills">

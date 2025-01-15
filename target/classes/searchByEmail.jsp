@@ -15,7 +15,7 @@
 	crossorigin="anonymous"></script>
 </head>
 
-<body>
+<body class="bg-primary" >
 	<main class=" container-fluid bg-image"
 		style="
       background-image: url('${pageContext.request.contextPath}/images/dfsdfd454545.jpg');
@@ -57,7 +57,7 @@
 		<!-- </div> -->
 	</main>
 
-
+<%@ include file="./footer.jsp"%>
 </body>
 
 </html>

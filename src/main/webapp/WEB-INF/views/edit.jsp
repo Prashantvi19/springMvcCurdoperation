@@ -12,7 +12,7 @@
         crossorigin="anonymous"></script>
 </head>
 
-<body>
+<body class="bg-primary" >
     <main class="bg-image container-fluid" style="
       background-image: url('${pageContext.request.contextPath}/images/simple-blue-background-wallpaper-thumb.jpg');
       background-repeat: no-repeat;
@@ -56,7 +56,7 @@
             </div>
    <!--      </div> -->
     </main>
-
+<%@ include file="./footer.jsp"%>
 </body>
 
 </html>

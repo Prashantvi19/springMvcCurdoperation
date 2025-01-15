@@ -17,7 +17,7 @@
 	crossorigin="anonymous"></script>
 </head>
 
-<body>
+<body class="bg-primary" >
 
 
 	<main class="bg-image container-fluid"
@@ -105,7 +105,7 @@
 
 		<!-- </div> -->
 	</main>
-
+<%@ include file="./footer.jsp"%>
 
 </body>
 

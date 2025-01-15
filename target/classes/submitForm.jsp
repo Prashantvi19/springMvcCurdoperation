@@ -17,7 +17,7 @@
 	crossorigin="anonymous"></script>
 </head>
 
-<body>
+<body class="bg-primary" >
 	<main class="bg-image container-fluid"
 		style="
       background-image: url('${pageContext.request.contextPath}/images/sky-blue-hd-background-image-for-banner.jpg');
@@ -89,7 +89,7 @@
  -->
 	</main>
 
-
+<%@ include file="./footer.jsp"%>
 </body>
 
 </html>
